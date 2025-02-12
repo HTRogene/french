@@ -28,96 +28,94 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - a
-  - o
+  - u
   - i
+  - s
   - t
   - n
-  - l
+  - a
   - r
-  - s
-  - u
+  - l
+  - o
   - c
   - d
   - m
   - p
-  - .
-  - h
-  - g
   - f
-  - q
+  - .
   - ̃
+  - g
+  - q
   - b
-  - '&'
-  - z
-  - ̀
-  - E
-  - A
-  - ꝑ
-  - C
-  - x
-  - S
-  - M
-  - ħ
-  - '-'
-  - D
-  - L
-  - ⁊
-  - ̧
-  - ':'
-  - R
-  - U
   - y
-  - P
-  - I
-  - ꝯ
-  - ł
+  - h
+  - z
+  - E
   - Q
-  - F
-  - ꝗ
-  - B
-  - N
-  - "'"
-  - T
-  - O
-  - G
-  - '1'
-  - '3'
-  - X
-  - ꝓ
-  - ͣ
-  - H
-  - '2'
-  - ͥ
-  - '0'
-  - 
-  - )
-  - ͬ
-  - '4'
-  - '6'
-  - ͤ
-  - '5'
-  - ͦ
-  - Z
-  - /
-  - '8'
-  - đ
+  - L
+  - S
   - ̾
-  - '9'
-  - ẜ
-  - ͧ
-  - ꝙ
-  - Y
-  - '7'
-  - K
-  - ‸
-  - ꝷ
-  - +
-  - ℥
-  - ꝵ
-  - ÷
+  - x
+  - I
+  - ⁊
+  - A
+  - R
+  - C
+  - D
+  - P
+  - M
+  - T
+  - N
+  - ͬ
   - ꝰ
-  - ͭ
+  - O
+  - ͥ
+  - 
+  - U
+  - ͣ
+  - F
+  - ꝑ
+  - ⟦
+  - ⟧
+  - k
+  - '-'
+  - ꝓ
+  - ꝯ
+  - '1'
+  - ͤ
+  - B
+  - ͦ
+  - H
+  - ẜ
+  - ᷑
+  - đ
+  - ♡
+  - ᷤ
+  - ᷝ
+  - ꝭ
+  - G
+  - ᵇ
+  - ꝟ
+  - ł
+  - K
+  - '0'
+  - '5'
+  - '2'
+  - '3'
+  - '4'
+  - ':'
+  - ᵈ
+  - Y
+  - ͧ
+  - '8'
+  - ᷦ
+  - '9'
+  - ‸
+  - ꝙ
+  - ̶
+  - w
+  - ͫ
+  - '6'
   mode: NFD
 citation-file-link: https://github.com/HTRogene/italian/blob/main/CITATION.CFF
 description: >-
@@ -152,11 +150,11 @@ time:
 title: HTRogène Medieval Italian Manuscripts
 url: https://github.com/HTRogene/italian
 volume:
-- count: 102423
+- count: 34481
   metric: characters
-- count: 89
+- count: 29
   metric: files
-- count: 2893
+- count: 1240
   metric: lines
-- count: 296
+- count: 96
   metric: regions
