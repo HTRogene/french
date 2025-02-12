@@ -1,0 +1,26 @@
+char,name,replacement,allow,regex
+l’,LATIN SMALL LETTER L WITH STROKE,ł,,
+s̵,S STROKE TO Single letter,ẜ,,
+[[,Squares,⟦,,
+]],Squares,⟧,,
+V,LATIN CAPITAL LETTER V,U,,
+v,LATIN SMALL LETTER V,u,,
+J,LATIN CAPITAL LETTER J,I,,
+j,LATIN SMALL LETTER J,i,,
+ᵛ,LATIN SUPERSCRIPT NON COMBINING V,ᵘ,,
+ʲ,LATIN SUPERSCRIPT NON COMBINING V,ⁱ,,
+\u036E,Combining V,\u0367,,true
+\uF030,Combining J,\u0365,,true
+[0-9],All arabic digits,,true,true
+[a-ik-uw-zA-IK-UW-Z],All Latin letters (caps inc.),,true,true
+[\u0363-\u036D\u036F\u1DDA\u1DDC\u1DDD\u1DE0\u1DE4\u1DE6\u1DE8\u1DEB\u1DEE\u1DF1\uF02B\uF030\uF033],All combining latin letter except u/j,,true,true
+[ᵃᵇᶜᵈᵉᶠᵍʰⁱᵏˡᵐⁿᵒᵖ𐞥ʳˢᵗᵘʷˣʸᶻ⁰¹²³⁴⁵⁶⁷⁸⁹],All superscript non combining Latin letters,,true,true
+⟦,MATHEMATICAL LEFT WHITE SQUARE BRACKET,,true,
+⟧,MATHEMATICAL RIGHT WHITE SQUARE BRACKET,,true,
+[ꝭꝵ᷑ꝰ̶̧̇ꝯ÷⁊ħłꝈØꝓꝒꝑꝐꝙꝘꝗẜđꝟ&♡℥𐆒],Base medieval abbreviation,,true,true
+[\u0303\u033e],TILDES,,true,true
+[./:⟦⟧‸\-¶],Allowed ponctuation,,true,true
+°,DEGREE SIGN,ᵒ,,
+⁋,REVERSED PILCROW SIGN,¶,,
+",",COMMA,.,,
+;,SEMI-COLON,:,,
